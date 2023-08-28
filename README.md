@@ -3,7 +3,7 @@
 My name is Xavier and I'm a cloud engineer at Western Governors University.
 
 [![Certification - AWS Solutions Architect - Associate](https://images.credly.com/size/220x220/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/4d2bb0a6-f230-40fd-a178-107d28b0484a/public_url)
-[![Certification - AWS Solutions Architect - Associate](https://images.credly.com/size/680x680/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](https://www.credly.com/badges/a2f817c3-59cd-48c6-a9cd-2bc50f939378)
+[![Certification - AWS Solutions Architect - Associate](https://images.credly.com/size/220x220/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](https://www.credly.com/badges/a2f817c3-59cd-48c6-a9cd-2bc50f939378)
 
 <!--
 **xmclallen/xmclallen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
