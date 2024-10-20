@@ -2,6 +2,7 @@
 
 My name is Xavier and I'm a cloud engineer at Western Governors University.
 
+[![Certification - CKA - Certified Kubernetes Administrator](https://images.credly.com/size/220x220/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](https://www.credly.com/badges/f6fe9c82-144d-49ae-bc5e-92e582f82909/public_url)
 [![Certification - AWS Solutions Architect - Associate](https://images.credly.com/size/220x220/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/4d2bb0a6-f230-40fd-a178-107d28b0484a/public_url)
 [![Certification - AWS Solutions Architect - Associate](https://images.credly.com/size/220x220/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](https://www.credly.com/badges/a2f817c3-59cd-48c6-a9cd-2bc50f939378)
 
